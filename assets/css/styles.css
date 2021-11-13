@@ -177,7 +177,7 @@ img{
     .nav__menu{
         position: fixed;
         left: 0;
-        bottom: -100%;
+        bottom: 0;
         width: 100%;
         background-color: var(--body-color);
         padding: 2rem 1.5rem 4rem;
