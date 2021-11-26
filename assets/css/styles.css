@@ -350,7 +350,19 @@ img{
     justify-content: space-evenly;
     margin-bottom: var(--mb-2-5);
 }
+.about__info-title{
+    font-size: var(--h2-font-size);
+}
 
+
+.about__info--name{
+    font-size: var(--smaller-font-size);
+}
+.about__info-title,
+.about__info-name{
+    display: block;
+    text-align: center;
+}
 /*==================== SKILLS ====================*/
 
 
