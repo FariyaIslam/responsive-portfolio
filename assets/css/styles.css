@@ -352,6 +352,7 @@ img{
 }
 .about__info-title{
     font-size: var(--h2-font-size);
+    font-weight: var(--font-semi-bold);
 }
 
 
