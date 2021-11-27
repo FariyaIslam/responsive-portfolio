@@ -354,8 +354,8 @@ img{
     font-size: var(--h2-font-size);
     font-weight: var(--font-semi-bold);
     color: var(--title-color);
-}
 
+}
 
 .about__info--name{
     font-size: var(--smaller-font-size);
