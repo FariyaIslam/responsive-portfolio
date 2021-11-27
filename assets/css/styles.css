@@ -365,6 +365,11 @@ img{
     display: block;
     text-align: center;
 }
+
+.about__buttons{
+    display: flex;
+    justify-content: center;
+}
 /*==================== SKILLS ====================*/
 
 
