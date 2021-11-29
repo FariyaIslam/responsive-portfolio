@@ -396,6 +396,11 @@ img{
     font-size: var(--h3-font-size);
 }
 
+.skills__Subtitle{
+    font-size: var(--small-font-size);
+    color: var(--text-color-light);
+}
+
 
 /*==================== QUALIFICATION ====================*/
 
