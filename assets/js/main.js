@@ -39,6 +39,17 @@ navLink.forEach(n => n.addEventListener('click', linkAction))
 const skillsContent = document.getElementsByClassName('skills__content'),
     skillsHeader = document.querySelector('.skills__header')
 
+function toggleskills()
+    {
+        let itemClass = this.parentNode.getElementsByClassName
+        for(i=0; i<skillsContent.length; i++){
+            skillsContent[i].className = 'skills__content skills__close'
+        }
+        if(itemClass === 'skills__content skills__close'){
+            this.parentNode.className = 'skills__content skills__open'
+        }
+    }
+
 
 /*==================== QUALIFICATION TABS ====================*/
 
