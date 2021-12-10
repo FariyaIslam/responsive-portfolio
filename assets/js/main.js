@@ -50,6 +50,10 @@ function toggleskills()
         }
     }
 
+ skillsHeader.forEach((el) => {
+     
+ })   
+
 
 /*==================== QUALIFICATION TABS ====================*/
 
