@@ -13,7 +13,7 @@ if (navtoggle) {
     })
 }
 
-/*=====   MENU HIDDEN =====*/
+/*=====  MENU HIDDEN=====*/
 /* Validate if constant exists */
 if (navClose) {
     navClose.addEventListener('click', () => {
