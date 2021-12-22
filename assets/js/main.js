@@ -48,9 +48,10 @@ function toggleskills() {
        this.parentNode.className = 'skills__content skills__open'
     }
 }
+
 skillsHeader.forEach((el) => {
     el.addEventListener('click', toggleskills)
-    
+
 })
 /*==================== QUALIFICATION TABS ====================*/
 
