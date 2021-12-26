@@ -467,6 +467,7 @@ img{
     height: 0;
     overflow: hidden;
 }
+
 .skills__open .skills__list{
     height: max-content;
     margin-bottom: var(--mb-0-25);
