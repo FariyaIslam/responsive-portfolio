@@ -52,6 +52,7 @@ skillsHeader.forEach((el) => {
     el.addEventListener('click', toggleskills)
 
 })
+
 /*==================== QUALIFICATION TABS ====================*/
 
 
