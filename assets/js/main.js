@@ -54,6 +54,7 @@ skillsHeader.forEach((el) => {
 })
 
 
+
 /*==================== QUALIFICATION TABS ====================*/
 
 
