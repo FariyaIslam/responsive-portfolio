@@ -52,6 +52,7 @@ function toggleskills() {
 }
 
 
+
 skillsHeader.forEach((el) => {
     el.addEventListener('click', toggleskills)
 
